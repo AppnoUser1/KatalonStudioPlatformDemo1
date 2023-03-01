@@ -1,0 +1,1 @@
+# KatalonStudioPlatformDemo1
